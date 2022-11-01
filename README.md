@@ -6,7 +6,7 @@
 - :bird: twitter: @ItokVlad 
 - :computer: linkedin: www.linkedin.com/in/hector-vlad-itok-1a3829182
 - :mailbox: How to reach me: julian.villegasplus@gmail.com
-- :smile: Pronouns: light bulb bulb
+- :smile: Pronouns: Steevie vladie
 - :zap: Fun fact: Play monopoly | Travel:airplane: | Read books:books: | Aries:aries: | Music (RnB/Soul):musical_score: | Piano:musical_keyboard:
 - :yellow_heart: Lovers: Kitties:smirk_cat:
 <!---
