@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, i'm [Hector Steve ITOK](https://www.instagram.com/HectorVladitok/), a passionate robotician (Electrical engineering) and a self-taught full-stack software engineer. I'm an @holbertonschool trainee software engineer. My passion for software lies in dreaming up ideas and turning them into elegant interfaces and innovative processes for microcontrollers. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hi, i'm [Hector Steve ITOK](https://www.linkedin.com/in/hector-vlad-itok-1a3829182/), a passionate robotician (Electrical engineering) and a self-taught full-stack software engineer. I'm an @holbertonschool trainee software engineer. My passion for software lies in dreaming up ideas and turning them into elegant interfaces and innovative processes for microcontrollers. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 In my spare time, I am a music lover (RnB/Soul) 🎼, piano lover 🎹, great reader 📖 (Tolkien, JK Rowling, Paulo Coelho...).
 - 👀 I’m interested in data science, electronics, robotics, machine learning and Music.
 - 🌱 I’m currently learning C/C++, python, javascript, MySQL, Webstack debugging.
