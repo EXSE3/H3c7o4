@@ -44,9 +44,9 @@ In my spare time, I am a music lover (RnB/Soul) 🎼, piano lover 🎹, great re
 <!--START_SECTION:waka-->
 
 ```text
-Python                   08 hrs 35 mins  ████████████████████░░░░░   85.41 %
-C Programming Language   01 hrs 07 mins  ████░░░░░░░░░░░░░░░░░░░░░   11.22 %
-Bash                     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Python                   06 hrs 35 mins  █████████████░░░░░░░░░░░░   47.94 %
+C Programming Language   04 hrs 07 mins  █████████░░░░░░░░░░░░░░░░   29.98 %
+Bash                     03 hrs 02 mins  ███████████░░░░░░░░░░░░░░   22.08 %
 ```
 <br />
 
@@ -67,7 +67,8 @@ Bash                     25 mins         █░░░░░░░░░░░░
 
 [![Hector's Github Stats](https://github-readme-stats.vercel.app/api?username=H3c7o4&show_icons=true&theme=gotham")](https://github.com/H3c7o4/github-readme-stats)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=H3c7o4)](https://github.com/ryo-ma/github-profile-trophy)
+  #### 🏆 Github Profile Trophy:
+  [![trophy](https://github-profile-trophy.vercel.app/?username=H3c7o4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!---
 H3c7o4/H3c7o4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
