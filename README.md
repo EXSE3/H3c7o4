@@ -67,6 +67,7 @@ Bash                     25 mins         █░░░░░░░░░░░░
 
 [![Hector's Github Stats](https://github-readme-stats.vercel.app/api?username=H3c7o4&show_icons=true&theme=gotham")](https://github.com/H3c7o4/github-readme-stats)
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=H3c7o4)](https://github.com/ryo-ma/github-profile-trophy)
   
 <!---
 H3c7o4/H3c7o4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
