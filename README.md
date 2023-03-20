@@ -64,7 +64,7 @@ Bash                     03 hrs 02 mins  ███████████░░
 <img align="left" alt="Seaborn" width="70px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" />
 <img align="left" alt="Scipy" width="70px" src="https://www.fullstackpython.com/img/logos/scipy.png" />
 <img align="left" alt="Scikit learn" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Django" width="70px" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png" />
+<img align="left" alt="Django" width="70px" src="https://w7.pngwing.com/pngs/609/443/png-transparent-django-original-logo-icon.png" />
 <br/ >
 <br/ >
 <br/ >
