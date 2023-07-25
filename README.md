@@ -75,13 +75,13 @@ I also know:<br/>
 <a href="https://www.instagram.com/HectorVladitok/">
     <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="https://discord.com/channels/@Hector BenMyriam#0823">
+<a href="https://www.discord.com/channels/@Hector BenMyriam#0823">
     <img src="https://skillicons.dev/icons?i=discord" />
 </a>
-<a href="https://twitter.com/ItokVlad">
+<a href="https://www.twitter.com/ItokVlad">
     <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="linkedin.com/in/hector-steve-itok-1a3829182/">
+<a href="https://www.linkedin.com/in/hector-steve-itok-1a3829182/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <br/>
