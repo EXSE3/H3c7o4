@@ -96,13 +96,24 @@ I also know:<br/>
 
 <br />
 
+## Joke of the Day
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
+<br />
+
+## Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3c7o4&layout=donut-vertical)](https://github.com/H3c7o4/github-readme-stats)
+
+<br />
+
 ## 📈 My github stats
 
 <br />
 
 [![Hector's Github Stats](https://github-readme-stats.vercel.app/api?username=H3c7o4&show_icons=true&theme=gotham")](https://github.com/H3c7o4/github-readme-stats)
   
-
 ## 🏆 Github Profile Trophy:
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=H3c7o4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
