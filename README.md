@@ -1,20 +1,47 @@
-## Hey There 🖖 !
+## Hey There! I'm Hector 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=H3c7o42&label=Profile%20views&color=0e75b6&style=flat" alt="H3c7o4" /> </p>
 
-I'm **Hector Steve ITOK** and I'm Software engineer from Cameroon.
+## DevOps Engineer | Backend Developer | Cloud & IaC Enthusiast
+
+ ### Welcome to My GitHub Profile!
+
+I am a dedicated DevOps engineer, deeply immersed in cloud technologies, backend development, and automation. My passion lies in crafting scalable and robust systems that elevate teams to deliver software with speed and precision. Explore this space to discover a glimpse of my projects, contributions, and open-source endeavors.  
 <br />
 
-## About me
-I'm a python developper and currently mastering Django, FastAPI and Nodejs/Expressjs. I plan also to learn React.
-My passion for software lies in dreaming up ideas and turning them into elegant interfaces and innovative processes for microcontrollers.
-I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-In my spare time, I am a music lover (RnB/Soul) 🎼, piano player 🎹, great reader 📖 (Tolkien, JK Rowling, Paulo Coelho...).
-- 👀 I’m interested in data science, electronics, robotics, machine learning and Music.
-- 🌱 I’m currently learning python, C/C++, javascript, MySQL, Webstack debugging.
-- 💞️ I'm looking to collaborate on app creation and machine learning projects.
-- 😄 Pronouns: <b> Steevie vladie </b>
-- ⚡ Fun fact: Play monopoly | Travel:airplane: | Aries:aries:
+### Tech Stack
+[![GitHub mhmdio](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GitHub mhmdio](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
+[![GitHub mhmdio](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![GitHub mhmdio](https://img.shields.io/badge/Kubernetes-41957E?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+
+### 🔧 Technologies and Tools
+
+- **Cloud**: AWS
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
+- **Configuration Management**: Ansible, Terraform
+- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Scripting**: Bash, Python
+- **Version Control**: Git, GitHub
+
+### 🌱 I'm currently learning
+
+- Infrastructure as Code with CDK, CDKTF, and Pulumi
+
+### 👯 I'm looking to collaborate on
+
+- Open-source projects related to DevOps, cloud-native technologies, and automation
+- Building scalable and highly available systems
+
+### 📫 How to reach me
+
+- https://hectorsteveitok.framer.ai/
+
+### 🏆 Certifications
+
+- ALX Certified Backend developer
+- Top Tech Certified DevOps professional
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -25,37 +52,19 @@ In my spare time, I am a music lover (RnB/Soul) 🎼, piano player 🎹, great r
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
 
-
 <br />
 
 - 💼 Any Teamwork? do reach, [email](mailto:hectorvladitok@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
-
-
-    
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Python                   10 hrs 35 mins  █████████████░░░░░░░░░░░░   47.94 %
-C Programming Language   08 hrs 07 mins  █████████░░░░░░░░░░░░░░░░   29.98 %
-Bash                     05 hrs 02 mins  ██████░░░░░░░░░░░░░░░░░░░   22.08 %
-```
-<br />
+- 💬 ask me about anything, I am happy to help;
 
 <!--END_SECTION:waka-->
 
-## Tech stack
-I work with:<br/>
-[![Python, C, C++, Javascript, HTML, CSS, Regex, jQuery, Markdown, Vim, Bash, Git, Docker, MySQL, SQLite, Github, Arduino, Django, FastAPI, Flask, Matlab, MongoDB, NGINX, Postgresql, Postman, Redis, Tensorflow, VSCode](https://skillicons.dev/icons?i=py,c,cpp,js,html,css,regex,jquery,md,vim,linux,bash,git,docker,mysql,sqlite,github,arduino,django,fastapi,flask,matlab,mongodb,nginx,postgres,postman,redis,tensorflow,vscode&perline=6)](https://skillicons.dev)
-
-I also know:<br/>
-[![NodeJS, ExpressJS, Tailwind, Raspberry, Figma, Typescript](https://skillicons.dev/icons?i=nodejs,express,tailwind,raspberrypi,figma,ts)](https://skillicons.dev)
-
+<br/>
+<br/>
+<br/>
 <br/>
 
-## Data Science Tools:
+## I also do Data Science:
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
 <img align="left" alt="Numpy" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
@@ -108,13 +117,13 @@ I also know:<br/>
 
 <br />
 
-## 📈 My github stats
+## 📈 My Github stats
 
 <br />
 
 [![Hector's Github Stats](https://github-readme-stats.vercel.app/api?username=H3c7o4&show_icons=true&theme=gotham")](https://github.com/H3c7o4/github-readme-stats)
   
-## 🏆 Github Profile Trophy:
+## 🏆 GitHub Profile Trophy:
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=H3c7o4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
